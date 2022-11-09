@@ -1,0 +1,93 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	font-size: 20px;
+}
+#cabecalho{
+	height: 150px;
+	background: orange;
+	width: 90%;
+	margin: 0 auto;
+	border: 4px solid #000000;
+}
+#menu{
+	height: 500px;
+	width: 340px;
+	background: green;
+	float: left;
+	margin-left: 80px;
+    margin-top: 10px;
+    border: 4px solid #000000;
+}
+#pagina{
+	height: 500px;
+	width: 798px;
+	background: gray;
+	float: left;
+	margin-left: 20px;
+    margin-top: 10px;
+    border: 4px solid #000000;
+}
+#lado{
+	height: 500px;
+	width: 324px;
+	background: lightgreen;
+	float: left;
+	margin-left: 20px;
+    margin-top: 10px;
+    border: 4px solid #000000;
+}
+
+#rodape{
+	height: 150px;
+	background: yellow;
+	clear: both;
+	margin-left: 80px;
+	width: 1518px;
+	margin-top: 530px;
+	border: 4px solid #000000;
+}
+
+#serra{
+width: 600px;
+}
+
+#texto{
+margin-left: 1px;
+}
+
+h1{
+text-transform: uppercase;
+	color: blue;
+}
+table{
+	margin: 20px 0 40px;
+}
+thead{
+	background: #555555;
+	color: white;
+	font-weight: bold;
+
+}
+td, tr{
+	border: 2px solid #000000;
+	padding: 43px;
+}
+form {
+	margin: 40px 0;
+}
+
+label form p{
+   display: block;
+   font-size: 20px;
+   margin: 0 0 10px;
+}
+
+.input-padrao {
+	display: block;
+	margin: 0 0 10px;
+	padding: 5px
+}
